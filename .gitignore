@@ -1,0 +1,8 @@
+out/
+results/
+*.log
+*.sca
+*.vec
+*.out
+*.o
+k-Clique_clutering
